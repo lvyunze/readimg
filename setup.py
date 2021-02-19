@@ -7,6 +7,7 @@ setup(
     packages=['readimg'],
     author="lvyunze",
     author_email="17817462542@163.com",
+    url='https://github.com/lvyunze/readimg',
     description="This is a package that read the folder picture and convert it into a digital",
     keywords="read the folder picture and convert it into a digital",
     long_description=long_description,

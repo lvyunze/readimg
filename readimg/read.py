@@ -43,5 +43,6 @@ def load_image_files(container_path, output_shape):
     return Bunch(data=flat_data,
                  target=target,
                  target_names=categories,
+
                  images=images,
                  DESCR=descr)
